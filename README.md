@@ -30,6 +30,16 @@ Aplicação desenvolvida para listar e visualizar tarefas, com o objetivo de col
 
 <hr>
 
+
+## Deploy
+
+Deploy do projeto
+
+https://www.linkedin.com/in/jo%C3%A3o-felipe-976478231/
+
+
+<hr>
+
 <h4>Como rodar no seu computador🖥️</h4>
 
 - Instale o [Node.js](https://nodejs.org/en/download/) e o [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git). Então:
