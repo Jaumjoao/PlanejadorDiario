@@ -35,7 +35,7 @@ Aplicação desenvolvida para listar e visualizar tarefas, com o objetivo de col
 
 Deploy do projeto
 
-https://www.linkedin.com/in/jo%C3%A3o-felipe-976478231/
+[https://www.linkedin.com/in/jo%C3%A3o-felipe-976478231/](https://planejador-diario.netlify.app/)
 
 
 <hr>
