@@ -1,6 +1,5 @@
 <div align="center">
 	<h1>Listagem de tarefas</h1>
-	<br>
 </div>
 
 <hr>
